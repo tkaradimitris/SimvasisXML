@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns="http://www.taxisnet.gr/deduction" xmlns:common="http://www.taxisnet.gr/common" xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.taxisnet.gr/deduction" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:import namespace="http://www.taxisnet.gr/common" schemaLocation="commonTypes.xsd"/>
+	<xs:complexType name="deductionAgreementVer2007DocumentStructure">
+		<xs:sequence>
+			<xs:element name="Al1c1" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="EL">Δ.Ο.Υ.</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="20"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="Al2c1" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="EL">Διαχειριστικό έτος</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:int">
+						<xs:totalDigits value="4"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="Al3c1" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="EL">Τρίμηνο</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:int">
+						<xs:totalDigits value="1"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="Al4c1" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="EL">Αριθμός Δήλωσης</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:int">
+						<xs:totalDigits value="6"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="f023A" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="EL">Αριθμός Σελίδας</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:int">
+						<xs:totalDigits value="2"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="f023B" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="EL">Σύνολο Σελίδων</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:int">
+						<xs:totalDigits value="2"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="BlockA" type="deductionAgreementVer2007BlockABlockStructure"/>
+			<xs:element name="BlockB" type="deductionAgreementVer2007BlockBBlockStructure" minOccurs="0"/>
+			<xs:element name="TableA" type="deductionAgreementVer2007TableATableStructure" maxOccurs="20"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="deductionAgreementVer2007BlockABlockStructure">
+		<xs:sequence>
+			<xs:element name="Al5c1" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="EL">Α.Φ.Μ. Υποχρέου</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="12"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="Al5c2" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="EL">Αριθμός Φακέλου Υποχρέου</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="10"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="Al6c1" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="EL">Επώνυμο ή επωνυμία Υποχρέου</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="45"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="Al6c2" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="EL">Όνομα Υποχρέου</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="20"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="Al7c1" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="EL">Διεύθυνση Υποχρέου</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="50"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="deductionAgreementVer2007BlockBBlockStructure">
+		<xs:sequence>
+			<xs:element name="Al8c1" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="EL">Α.Φ.Μ. Νομίμου Εκπροσώπου</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="12"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="Al9c1" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="EL">Επώνυμο Νομίμου Εκπροσώπου</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="45"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="Al9c2" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="EL">Όνομα Νομίμου Εκπροσώπου</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="20"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="Al10c1" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="EL">Διεύθυνση Νομίμου Εκπροσώπου</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="50"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="deductionAgreementVer2007TableATableStructure">
+		<xs:sequence>
+			<xs:element name="Rows" type="deductionAgreementVer2007TableARowsStructure" maxOccurs="16"/>
+		</xs:sequence>
+		<xs:attribute name="CurrentPage" type="xs:int"/>
+	</xs:complexType>
+	<xs:complexType name="deductionAgreementVer2007TableARowsStructure">
+		<xs:sequence>
+			<xs:element name="Bl1c1" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="EL">Α/Α</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:int">
+						<xs:totalDigits value="2"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="Bl1c2" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="EL">Αριθμός</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="15"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="Bl1c3" type="xs:date" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="EL">Ημερομηνία</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="Bl1c4" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="EL">Α.Φ.Μ.</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="12"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="Bl1c5" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="EL">Επωνυμία ή επώνυμο - όνομα - όνομα πατέρα ή συζύγου</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="50"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="Bl1c6" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="EL">Διεύθυνση επαγγέλματος ή κατοικίας</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="50"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="Bl1c7" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="EL">Α.Φ.Μ. Αλλοδαπού</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="20"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="Bl1c8" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="EL">Ονοματεπώνυμο Αλλοδαπού</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="60"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="Bl1c9" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="EL">Χώρα Αλλοδαπού</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="3"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="Bl1c10" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="EL">Αντικείμενο Συμφωνητικού (Σύντομη περίληψη)</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="100"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+			<xs:element name="Bl1c11" type="xs:date" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="EL">Διάρκεια Συμφωνητικού Από</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="Bl1c12" type="xs:date" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="EL">Διάρκεια Συμφωνητικού Εώς</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="Bl1c13" type="common:Currency" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="EL">Ποσά Συμφωνητικού</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="Bl1c14" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation xml:lang="EL">Λοιπές Παρατηρήσεις</xs:documentation>
+				</xs:annotation>
+				<xs:simpleType>
+					<xs:restriction base="xs:string">
+						<xs:maxLength value="50"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+		</xs:sequence>
+		<xs:attribute name="toBeDeleted" type="xs:boolean" use="optional"/>
+		<xs:attribute name="visible" type="xs:boolean" use="optional"/>
+	</xs:complexType>
+	<xs:element name="deductionAgreementVer2007Document" type="deductionAgreementVer2007DocumentStructure"/>
+	<xs:element name="deductionAgreementVer2007Batch">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="deductionAgreementVer2007Document" type="deductionAgreementVer2007DocumentStructure" maxOccurs="10"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

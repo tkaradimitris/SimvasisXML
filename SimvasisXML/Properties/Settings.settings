@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SimvasisXML.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="afm" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">012345678</Value>
+    </Setting>
+    <Setting Name="connectionString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Provider=Microsoft.ACE.OLEDB.16.0;Data Source={0};Extended Properties='Excel 8.0;HDR=Yes;';</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

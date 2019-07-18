@@ -1,0 +1,494 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deductionAgreementVer2007Batch xmlns="http://www.taxisnet.gr/deduction">
+  <deductionAgreementVer2007Document>
+    <Al2c1>2015</Al2c1>
+    <Al3c1>1</Al3c1>
+    <BlockA>
+      <Al5c1>987654321</Al5c1>
+    </BlockA>
+    <TableA>
+      <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+	  <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+	  <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+	  <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+	  <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+	  <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+	  <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+	  <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+	  <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+	  <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+	  <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+	  <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+	  <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+	  <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+	  <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+	  <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+    </TableA>
+	<TableA>
+      <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+	  <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+	  <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+	  <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+	  <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+	  <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+	  <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+	  <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+	  <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+	  <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+	  <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+	  <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+	  <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+	  <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+	  <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+	  <Rows toBeDeleted="false">
+        <Bl1c2>111122</Bl1c2>
+        <Bl1c3>2015-01-01</Bl1c3>
+        <Bl1c4>123456789</Bl1c4>
+        <Bl1c5>ΕΠΏΝΥΜΟ</Bl1c5>
+        <Bl1c6>ΔΙΕΥΘΥΝΣΗ</Bl1c6>
+        <Bl1c7>123456789</Bl1c7>
+        <Bl1c8>ΟΝΟΜΑ ΕΠΩΝΥΜΟ</Bl1c8>
+        <Bl1c9>GR</Bl1c9>
+        <Bl1c10>02 - Leasing</Bl1c10>
+        <Bl1c11>2015-01-01</Bl1c11>
+        <Bl1c12>2015-02-01</Bl1c12>
+        <Bl1c13>1234567890123.12</Bl1c13>
+        <Bl1c14>ΠΑΡΑΤΗΡΗΣΕΙΣ</Bl1c14>
+      </Rows>
+    </TableA>
+  </deductionAgreementVer2007Document>
+ </deductionAgreementVer2007Batch>
